@@ -90,3 +90,6 @@ export LIBGL_ALWAYS_INDIRECT=1
 Just follow the [instructions](https://ohmyposh.dev/docs/linux) and change the [Prompt](https://ohmyposh.dev/docs/prompt).
 
 More detailed instructions will be added on in near future.
+
+### Some exceptions and solutions.
+1. if the ubuntu button isn't showed on the list of terminal, try to reset the windows terminal.
